@@ -1,2 +1,2 @@
 # DS-Progs
-DS extra progs
+DS extra plugins
